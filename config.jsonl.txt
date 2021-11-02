@@ -1,0 +1,5 @@
+{
+	"ip":"couldbeajay2000.aternos.me",
+	"port": "15988",
+	"name": "afkbot"
+}
